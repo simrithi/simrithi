@@ -29,7 +29,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with interes
 ## 💻 Tech Stack
 
 ### Languages
--**PHP** - Backend and database integration
+
+- **PHP** - Backend and database integration
 - **JavaScript** - React, Node.js, web development
 - **Kotlin** - Android development
 - **SQL** - Database queries and optimization
